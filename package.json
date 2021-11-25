@@ -1,0 +1,19 @@
+{
+  "name": "vue-dc-comics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Marcofan00/vue-dc-comics.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Marcofan00/vue-dc-comics/issues"
+  },
+  "homepage": "https://github.com/Marcofan00/vue-dc-comics#readme"
+}
