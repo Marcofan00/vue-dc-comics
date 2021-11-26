@@ -6,6 +6,7 @@
     </main>
     <Myshop/>
     <Myfooter/>
+    <Mysocial/>
   </div>
 </template>
 
@@ -14,6 +15,7 @@ import Mynav from './components/Mynav.vue';
 import Myjumbotron from './components/Myjumbotron.vue';
 import Myshop from './components/Myshop.vue';
 import Myfooter from './components/Myfooter.vue';
+import Mysocial from './components/Mysocial.vue';
 export default {
   name: 'App',
   components: {
@@ -21,6 +23,7 @@ export default {
     Myjumbotron,
     Myshop,
     Myfooter,
+    Mysocial,
   }
 }
 </script>
