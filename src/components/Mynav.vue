@@ -95,6 +95,7 @@ export default {
                 font-size: .7em;
                 color: black;
                 font-weight: bold;
+                
             }
         }
     }
